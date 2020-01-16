@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "istio-fleetman-webapp-angular/package.json",
+        "k8s-manifests/istio-1.3.0/samples/bookinfo/src/ratings/package.json"
+      ]
+    }
+  }
+}
